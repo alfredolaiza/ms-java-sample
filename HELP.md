@@ -1,5 +1,15 @@
 # Getting Started
 
+# Instrucciones para contenerizar una aplicación Spring Boot con Gradle
+## Prerequisites
+Before you begin, ensure you have the following installed on your machine:
+* Java Development Kit (JDK) 17 or later
+* Gradle 7.0 or later
+* Docker (for containerization)
+## Steps to Containerize a Spring Boot Application with Gradle
+
+
+
 ### Reference Documentation
 
 For further reference, please consider the following sections:
